@@ -1,0 +1,17 @@
+{
+  "name": "turble",
+  "version": "0.0.1",
+  "description": "Turble is a simple SDL.",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "ace-editor-builds": "^1.2.0",
+    "dialogs": "^1.1.12",
+    "highlight": "^0.2.4",
+    "jquery": "^3.0.0",
+    "markdown-it": "^6.1.1",
+    "request": "^2.72.0"
+  }
+}

@@ -1,0 +1,4 @@
+mycircle = circle center: [0,0,0], radius: 5
+mycircle.border.thickness = 1
+mycircle.area.color = "#f0f0f0"
+mycircle.border.color = "#0000ff"
